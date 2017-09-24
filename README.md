@@ -1,4 +1,4 @@
-# Superset for DataTogether
+# Superset for BikeParking
 
 **[Heroku][]** is a platform for easily hosting web apps.
 
