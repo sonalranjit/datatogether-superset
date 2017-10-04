@@ -41,6 +41,7 @@ heroku config:set SECRET_KEY=`openssl rand -hex 36
 heroku config:set MAPBOX_API_KEY=<acquired-key>
 ```
 
+
 ## Notes
 
 * `master` branch is auto-deployed to Heroku.
